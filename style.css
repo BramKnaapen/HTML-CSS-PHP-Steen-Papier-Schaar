@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+}
+
+.speler_1 {
+    display: flex;
+    justify-content: center;
+    padding: 3px;
+}
+
+.speler_2 {
+    display: flex;
+    justify-content: center;
+    padding: 3px;
+}
+.center,
+p {
+    display: flex;
+    justify-content: center;
+}
